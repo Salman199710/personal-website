@@ -46,7 +46,7 @@ section{
 .resume:hover{
     background-color: darkgreen;
     color: cyan;
-    font-size: 25 px;
+    font-size: 30px;
 
 }
 .second{
@@ -90,7 +90,13 @@ section{
 }
 .footer{
     text-align: center;
-    height: 150px;
+    height: 200px;
     padding-bottom: 10px;
     background-image:url("footer-bg.png");
+}
+.mail{
+    text-decoration: none;
+    background-color: crimson;
+    padding: 10px;
+    border-radius: 5px;
 }
