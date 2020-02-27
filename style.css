@@ -1,0 +1,96 @@
+body{
+    
+    font-family: 'Trade Winds',serif ;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+}
+.half-width img{
+    width:100%;
+    padding-bottom: 20px;
+}
+section{
+    height: 750px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: crimson;
+    padding: 5px;
+    border-radius: 5px;
+
+
+}
+.link-button:hover {
+    color: cyan;
+    background-color: darkgreen;
+    font-size: 30px;
+}
+.top{
+    background-image: url("header-bg.png");
+    background-repeat: no repeat;
+}
+.resume{
+    text-decoration: none;
+    background-color: crimson;
+    border-radius: 5px;
+    padding: 5px;
+}
+.resume:hover{
+    background-color: darkgreen;
+    color: cyan;
+    font-size: 25 px;
+
+}
+.second{
+   background-image: url("biography-bg.png");
+}
+#work{ text-align: center;
+    position: relative;
+
+    
+}
+.last{
+    width: 30%;
+    float: left;
+    
+    padding: 10px;
+
+    
+}
+.last img{
+    width: 100%;
+    margin: 10%;
+    padding: 5px;
+}
+.latest{
+    background-image: url("latest-work-bg.png");
+    text-align: absolute;
+}
+.contact{
+    text-decoration: none;
+    background-color: crimson;
+    padding: 5px;
+    border-radius: 5px;
+    text-align:center;
+
+
+}
+.contact:hover {
+    color: cyan;
+    background-color: darkgreen;
+    font-size: 22px;
+}
+.footer{
+    text-align: center;
+    height: 150px;
+    padding-bottom: 10px;
+    background-image:url("footer-bg.png");
+}
